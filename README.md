@@ -7,3 +7,4 @@ Contains Analysis on following datasets; at the moment:
 3. Satellite Image Analysis
 4. Weather Data Classification
 5. Breast Cancer Detection
+6. Credit Card Fraud Detection
