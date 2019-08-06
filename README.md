@@ -1,5 +1,4 @@
-# workinprogress
-Training wheels projects to get a grasp of Data Science and Machine Learning
+## Training wheels projects to get a grasp of Data Science and Machine Learning
 
 Contains Analysis on following datasets; at the moment:
 1. Titanic
