@@ -9,3 +9,4 @@ Contains Analysis on following datasets; at the moment:
 5. Breast Cancer Detection
 6. Credit Card Fraud Detection
 7. DNA Classification
+8. NLP for Text Classification
