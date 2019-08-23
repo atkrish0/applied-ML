@@ -9,3 +9,4 @@ Contains Analysis on following datasets; at the moment:
 6. Credit Card Fraud Detection
 7. DNA Classification
 8. NLP for Text Classification
+9. Compression & Visualization using Principal Component Analysis
