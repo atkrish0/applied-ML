@@ -10,3 +10,4 @@ Contains Analysis on following datasets; at the moment:
 7. DNA Classification
 8. NLP for Text Classification
 9. Compression & Visualization using Principal Component Analysis
+10. Football Goal Prediction
