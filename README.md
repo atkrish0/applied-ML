@@ -12,3 +12,4 @@ Contains Analysis on following datasets; at the moment:
 9. Compression & Visualization using Principal Component Analysis
 10. Football Goal Prediction
 11. Resolvr Credit Default
+12. NLP using NLTK
