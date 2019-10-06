@@ -15,3 +15,4 @@
 12. NLP using NLTK
 13. Diabetes Onset Detection - CNN
 14. Stock Market Clustering
+15. Big Mart - Deep Feature Synthesis
